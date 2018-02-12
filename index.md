@@ -1,4 +1,4 @@
-## SaM Solution Search and Knowledge сheatsheet
+## SaM Solutions Search and Knowledge сheatsheet
 
 You can use the [editor on GitHub](https://github.com/akhval/epo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
